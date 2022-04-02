@@ -1,0 +1,6 @@
+如果通过tortoiseGit 出现错误：
+Unknown SSL protocol error in connection to github.com:443 github
+
+请参考：
+https://blog.csdn.net/e_wsq/article/details/114262711
+您需要把自己的秘钥和github之间建立关联关系。
